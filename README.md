@@ -8,7 +8,7 @@
 
 * `python3 draw.py`
 * follow the input prompts to get the desired output
-* NB Add any type of shape it will be able to run it 
+* NB Add any of thre defined shapes ans it be able to draw it 
 
 ### To Test
 
